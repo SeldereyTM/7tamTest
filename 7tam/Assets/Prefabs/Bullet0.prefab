@@ -100,8 +100,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a2b5c5b64dd2d04ebeab99477a18909, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 50
-  distance: 0.5
+  speed: 40
+  distance: 0.3
   damage: 14
   whatIsSolid:
     serializedVersion: 2
