@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Coin
   - Walls
+  - moveJoyStick
+  - scoreCounter
+  - hpBar
+  - aimJoyStick
+  - cinemachine
+  - popUp
   layers:
   - Default
   - TransparentFX
